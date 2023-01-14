@@ -1,5 +1,3 @@
-# Avocado mk.II
-
 # Turntable Amplifier
 
 MC preamplifier + RIAA filter + headphone amplifier based on TPA6120A.    
